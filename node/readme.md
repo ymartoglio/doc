@@ -142,8 +142,9 @@ Useful packages
 ---------------
 
  * `express-session` : manage session on request object
- * `connect-mongo` : session manager for mongo support several driver (mongojs,mongoose)
- * `body-parser` : parse request body
+ * `connect-mongo` : session manager for mongo, supports several driver (mongojs,mongoose)
+ * `body-parser` : parse body request
  * `client-sessions` : mozilla's foundation client session manager
- * `mongoose` : MongoDB Driver
+ * `mongoose` : MongoDB Driver and much more
+ * `merge` : sufficently explicit
  * `validator` : to type validation and more...
